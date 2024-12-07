@@ -1,0 +1,6 @@
+spring:
+
+  cloud:
+    config:
+      uri: votre config server
+      fail-fast: true
